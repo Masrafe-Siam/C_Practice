@@ -30,7 +30,7 @@ int main()
 		case 8:
 		printf("Radiant");
 		break;	
-		deafult:
+		default:
 		printf("GG");				
 	}
 	return 0;
