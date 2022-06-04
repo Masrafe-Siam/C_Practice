@@ -1,3 +1,7 @@
+//8.Write a program to check the area of the triangle is greater than the perimeter of the triangle.
+
+
+
 #include<stdio.h>
 main()
 {
