@@ -15,7 +15,7 @@ int main()
 		case 3:
 		printf("Silver");	
 		break;
-    	case 4:
+    	        case 4:
 		printf("Gold");
 		break;	
 		case 5:
