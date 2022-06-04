@@ -1,3 +1,6 @@
+//6.Write a program in C to display the n terms of even natural number and their sum.
+
+
 #include<stdio.h>
 int main()
 {
