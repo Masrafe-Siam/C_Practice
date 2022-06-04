@@ -1,3 +1,7 @@
+//2. Write a program that input +, - ,* or / and shows the result by taking variable input from the user
+
+
+
 #include<stdio.h>
 int main()
 {
