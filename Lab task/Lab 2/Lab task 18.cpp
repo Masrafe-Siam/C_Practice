@@ -1,3 +1,6 @@
+//5. If the ages of Arif, Fahmid and Joy are input through the keyboard, write a program to determine the youngest of the three.
+
+
 #include<stdio.h>
 int main()
 {
