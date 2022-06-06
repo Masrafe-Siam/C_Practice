@@ -1,4 +1,4 @@
-//5. Check the following number prime or not by taking input from the user.
+//5.Check the following number prime or not by taking input from the user.
 
 
 #include<stdio.h>  
