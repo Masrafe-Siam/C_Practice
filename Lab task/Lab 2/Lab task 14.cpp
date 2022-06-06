@@ -2,6 +2,7 @@
 Also determine how much profit he made or loss he incurred.*/
 
 
+
 #include<stdio.h>
 int main()
 {
