@@ -1,4 +1,7 @@
-#include<stdio.h >  
+//7.Write a C program to print prime number from 1 to 200
+
+
+#include<stdio.h>  
 #include<math.h>   
 int main()  
 {  

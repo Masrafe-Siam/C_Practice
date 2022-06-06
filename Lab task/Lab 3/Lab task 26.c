@@ -1,3 +1,6 @@
+//3.Write a program to print all prime numbers from 1 to 300. (Hint: Use nested loops, break and continue)
+
+
 #include<stdio.h >  
 #include<math.h>   
 int main()  

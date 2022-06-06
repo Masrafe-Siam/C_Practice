@@ -1,3 +1,6 @@
+//7.Print the following pattern of pyramid with star.
+
+
 #include<stdio.h>  
 int main()  
 {  

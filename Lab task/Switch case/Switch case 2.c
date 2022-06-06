@@ -27,7 +27,7 @@ int main()
 		div=a/b;	
 		printf("Calculation=%d",div);
 		break;	
-		deafult:
+		default:
 		printf("No case");			
 	}
 	return 0;	

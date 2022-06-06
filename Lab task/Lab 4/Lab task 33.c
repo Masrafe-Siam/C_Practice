@@ -1,3 +1,12 @@
+/*1.Write a menu driven program which has following options:
+1) Factorial of a number
+2) Prime or not
+3) odd or even
+4) exit*/
+
+
+
+
 #include<stdio.h>
 #include<math.h>
 int main()
@@ -50,7 +59,7 @@ else
 printf("Odd Number");
 }
 break;
-deafult:
+default:
 printf("No case");
 return 0;
 }
