@@ -15,7 +15,7 @@ int main()
 		case 3:
 		printf("Silver");	
 		break;
-    	case 4:
+    	        case 4:
 		printf("Gold");
 		break;	
 		case 5:
@@ -30,7 +30,7 @@ int main()
 		case 8:
 		printf("Radiant");
 		break;	
-		deafult:
+		default:
 		printf("GG");				
 	}
 	return 0;
