@@ -59,7 +59,7 @@ else
 printf("Odd Number");
 }
 break;
-deafult:
+default:
 printf("No case");
 return 0;
 }
