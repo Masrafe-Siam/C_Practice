@@ -4,7 +4,6 @@ Assume that the maximum marks that can be obtained by a student in each subject 
 
 
 
-
 #include<stdio.h>
 int main()
 {	
