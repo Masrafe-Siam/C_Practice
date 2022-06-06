@@ -3,6 +3,7 @@
 fractional part of an hour.*/
 
 
+
 #include<stdio.h>
     int main()
     {
