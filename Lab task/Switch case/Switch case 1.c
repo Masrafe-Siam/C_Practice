@@ -33,5 +33,5 @@ int main()
 		default:
 		printf("GG");				
 	}
-	return 0;
+return 0;
 }
