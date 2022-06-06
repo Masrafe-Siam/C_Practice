@@ -1,4 +1,4 @@
-//10. Write a program to find out your grade in final exam. Taking the marks input from user. Follow DIU grading method.
+//10.Write a program to find out your grade in final exam. Taking the marks input from user. Follow DIU grading method.
 
 
 #include<stdio.h>
